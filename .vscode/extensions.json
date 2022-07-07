@@ -1,7 +1,7 @@
 {
     "recommendations": [
         "github.vscode-pull-request-github",
-        "github.codespaces",
+        "GitHub.codespaces",
         "GitHub.remotehub"
     ]
 }
