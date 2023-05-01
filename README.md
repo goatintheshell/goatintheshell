@@ -1,6 +1,6 @@
 ## Hilary Sturges
 ### @goatintheshell
 
-Technical Support Wizard
+Developer Support Wizard
 
 [INSERT AMAZING README FILE HERE]
