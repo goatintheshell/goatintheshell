@@ -1,4 +1,4 @@
-## Hilary Sturges
+## Hilary Uhl Sturges
 ### @goatintheshell
 
 Developer Support Wizard
